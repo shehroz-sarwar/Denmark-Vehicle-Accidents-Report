@@ -27,8 +27,6 @@ The goal is to turn raw numbers into clear, useful insights that can support sma
 - Used **Power Query Editor** to clean and structure the dataset  
 - Categorized accidents by type, speed, and area (urban vs. non-urban)
 
-  ![Data Cleaning](Images/PowerQuery_Cleanup.png)
-
 ### 3. Power BI Modeling  
 - Built custom measures with **DAX**, including:
   - % of accidents involving alcohol  
