@@ -97,6 +97,6 @@ The goal is to turn raw numbers into clear, useful insights that can support sma
 ## Bonus
 ![Report Preview](Infographics/Accidents.png)
 
-[Download Infographics(pdf)]( )
+[Download Infographics(pdf)](Infographics/Accidents.pdf)
 
 📫 [**Questions or feedback?** Let’s connect on LinkedIn!](https://www.linkedin.com/in/shehrozsarwar)
