@@ -94,6 +94,7 @@ The goal is to turn raw numbers into clear, useful insights that can support sma
 3. Explore the visuals by filtering for **year, area, speed, and type**  
 4. Use insights to inform safety planning and public awareness campaigns  
 
----
+## Bonus
+![Report Preview](Report/Accidents.png)
 
 📫 [**Questions or feedback?** Let’s connect on LinkedIn!](https://www.linkedin.com/in/shehrozsarwar)
