@@ -40,7 +40,7 @@ The goal is to turn raw numbers into clear, useful insights that can support sma
 
   [Download Report (PDF)](Report/Accidents.pdf)
 
-  [Download Report (.pbix)](Power BI Report/PowerBI_Accidents.pbix)
+  [Download Report (.pbix)](Power_BI_Report/PowerBI_Accidents.pbix)
 
 
 ## 🔍 Insights
