@@ -38,7 +38,7 @@ The goal is to turn raw numbers into clear, useful insights that can support sma
 - Included filters for **year, area, speed, and accident type**  
 - Easy to explore with clean visuals and time-based insights
 
-  ![Report Preview](Report/Traffic_Report_Page1.png)
+  ![Report Preview](Report/Accidents.png)
 
   [Download Report (PDF)](Report/Traffic_Report.pdf)
 
