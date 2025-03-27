@@ -42,6 +42,8 @@ The goal is to turn raw numbers into clear, useful insights that can support sma
 
   [Download Report (PDF)](Report/Traffic_Report.pdf)
 
+  [Download Report (.pbix)]()
+
 ---
 
 ## 🔍 Insights
