@@ -38,7 +38,7 @@ The goal is to turn raw numbers into clear, useful insights that can support sma
 
   ![Report Preview](Report/Accidents.png)
 
-  [Download Report (PDF)](Report/Traffic_Report.pdf)
+  [Download Report (PDF)](Report/Accidents.pdf)
 
   [Download Report (.pbix)](Report/PowerBI_Accidents.pbix)
 
