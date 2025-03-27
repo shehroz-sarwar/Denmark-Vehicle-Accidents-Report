@@ -21,7 +21,7 @@ The goal is to turn raw numbers into clear, useful insights that can support sma
 - Downloaded accident data from **Statistics Denmark**  
 - Imported it directly into **Power BI** for analysis
 
-  📊 [Download Source Data (CSV)](Data/Denmark_Accidents.csv)
+  📊 [Download Source Data](Data/Accidents_DK.xlsx)
 
 ### 2. Data Cleaning  
 - Used **Power Query Editor** to clean and structure the dataset  
