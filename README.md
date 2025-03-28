@@ -53,9 +53,9 @@ The goal is to turn raw numbers into clear, useful insights that can support sma
 
 
 ### 🏙️ Urban vs. Non-Urban  
-- **Urban Accidents**: 41%  
-- **Non-Urban Accidents**: 59%  
-➡️ Most accidents occur outside cities — rural roads need more focus.
+- **Urban Accidents**: 59%  
+- **Non-Urban Accidents**: 41%  
+➡️ Most accidents occur in urban area.
 
 
 ### ⚠️ Common Accident Types  
