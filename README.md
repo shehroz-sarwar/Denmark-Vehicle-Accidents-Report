@@ -33,7 +33,7 @@ The goal is to turn raw numbers into clear, useful insights that can support sma
 
 ### 4. Report Creation  
 - Designed a fully interactive **Power BI Report**  
-- Included filters for **year, area, speed, and accident type**  
+- Included filters for **year and area**  
 - Easy to explore with clean visuals and time-based insights
 
   ![Report Preview](Report/Accidents-1.png)
