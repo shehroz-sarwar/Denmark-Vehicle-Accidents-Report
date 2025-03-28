@@ -95,7 +95,7 @@ The goal is to turn raw numbers into clear, useful insights that can support sma
 4. Use insights to inform safety planning and public awareness campaigns  
 
 ## Bonus
-![Report Preview](Infographics/Accidents.png)
+![Report Preview](Infographics/Infographics.png)
 
 [Download Infographics(pdf)](Infographics/Accidents.pdf)
 
