@@ -91,7 +91,7 @@ The goal is to turn raw numbers into clear, useful insights that can support sma
 1. Open the `.pbix` file using **Power BI Desktop**  
    [Download Report (pbix)](Power_BI_Report/Accidents.pbix)  
 2. Refresh the data if needed  
-3. Explore the visuals by filtering for **year, area, speed, and type**  
+3. Explore the visuals by filtering for **year and area**  
 4. Use insights to inform safety planning and public awareness campaigns  
 
 ## Bonus
