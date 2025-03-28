@@ -61,7 +61,7 @@ The goal is to turn raw numbers into clear, useful insights that can support sma
 ### ⚠️ Common Accident Types  
 - **Same Direction Collisions**  
 - **Single Vehicle Incidents**  
-- **Meeting Point Crashes**  
+- **Junction collisions**  
 ➡️ These account for the majority and signal risk in daily driving patterns.
 
 
